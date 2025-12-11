@@ -78,7 +78,7 @@ Here are some ideas to get you started:
     </a></td>
   </tr>
 
-  <!-- <tr>
+  <tr>
     <td colspan="6" align="center" style="height: 120px; padding: 0px;">
       <a href="https://github.com/ryo-ma/github-profile-trophy">
         <picture>
@@ -94,7 +94,7 @@ Here are some ideas to get you started:
         </picture>
       </a>
     </td>
-  </tr> -->
+  </tr>
 </table>
 
 <div id="title" align=center>
